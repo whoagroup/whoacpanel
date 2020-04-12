@@ -1,0 +1,13 @@
+{
+    "name": "vendor/whoacpanel",
+    "description": "package whoa cpanel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "whoagroup",
+            "email": "groupwhoa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
